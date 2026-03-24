@@ -23,11 +23,27 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+
+
+
 # .NET Core
 project.lock.json
 project.fragment.lock.json
 artifacts/
-
+# VS
+.vs
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 
